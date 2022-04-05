@@ -4,7 +4,7 @@
     position: fixed;
     z-index: 999;
     border-radius: 30%;
-    bottom: 10px;
+    bottom: 20px;
     right: 20px;
     padding: 15px;
     transition: ease 0.3s;
@@ -16,7 +16,7 @@
     position: fixed;
     z-index: 999;
     border-radius: 30%;
-    bottom: 40px;
+    bottom: 120px;
     right: 20px;
     padding: 15px;
     transition: ease 0.3s;
