@@ -48,7 +48,7 @@
         z-index: 999;
         border-radius: 30%;
         bottom: 10px;
-        right: 240px;
+        right: 270px;
         padding: 10px;
         transition: ease 0.3s;
         animation: efecto 1.2s infinite;
@@ -60,7 +60,7 @@
         z-index: 999;
         border-radius: 30%;
         bottom: 10px;
-        right: 480px;
+        right: 520px;
         padding: 10px;
         transition: ease 0.3s;
         animation: efecto 1.2s infinite;
